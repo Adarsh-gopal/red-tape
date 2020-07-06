@@ -2,3 +2,8 @@
 	path = Adarsh-gopal/red-tape
 	url = git@github.com:Adarsh-gopal/red-tape.git
 	branch = New
+
+[submodule "satishprixgen/red-tape"]
+	path = satishprixgen/red-tape
+	url = git@github.com:satishprixgen/red-tape.git
+	branch = New
